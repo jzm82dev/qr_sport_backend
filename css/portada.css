@@ -1,0 +1,177 @@
+body {
+	margin: 0px 0px 0px 0px; 
+	background-color: #FFFFFF;
+	height:100%;
+	/*border-right: 2px solid #9CA973; */
+	/*border-left: 2px solid #9CA973; */
+}
+
+/***********************************************************
+Página de acceso a la parte administrativa
+***********************************************************/
+.validar_main_table {
+	height: 100%; width: 100%; 
+	border-collapse: collapse;
+}
+
+.validar_td_maintd {
+	width: 475px;
+	border: 1px solid #87ae4c; 
+}
+
+.validar_content_table {
+	text-align: center; 
+	vertical-align: middle; 
+		background-color: white; 	
+	background-position:top; 
+	background-repeat:no-repeat; 
+	width: 980px; 
+	height: 100%;
+}
+
+.validar_loginmaindiv { 
+	width: 100%; 
+	height: 100%;
+	color: #fefefe;
+}
+
+.validar_table_maindiv {
+	height: 100%; 
+	width: 100%; 
+	border-collapse: collapse;
+}
+
+.validar_inner_table {
+	height: 230px; 
+	width: 350px; 
+	border: 0px none; 
+	border-collapse: collapse;
+}
+
+.validar_logininfo {
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, Helvetica;
+	color: #cccccc;
+	text-align: center;
+}
+
+.validar_loginboxdata {
+	height: 168px;
+	width: 350px;
+	background-color: #ffffff;
+	color: white;
+}
+
+.validar_loginboxdata_noscript {
+	width: 350px;
+	background-color: #EBEBEB;
+	height: 100%; 
+	font-size: 14px; 
+	color: red; 
+	font-family: Arial, Helvetica; 
+	font-weight: bold; 
+	text-align: center;
+}
+
+.validar_table_logindata {
+	border: 0px none; 
+	height: 100%; 
+	width: 348px; 
+	border-collapse: collapse;
+}
+
+.validar_td_sep20 {
+	width: 20px;
+}
+
+.validar_td_sep80 {
+	width: 80px;
+	color: white;
+}
+
+.validar_td_sep20x16 {
+	width: 20px;
+	height: 16px;
+}
+.validar_td_sep80_logintxt {
+	width: 80px;
+	color: #454B3F;
+	text-align: left;
+	font-family:Arial, Helvetica;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+.validar_logintxt {
+	text-align: left;
+	font-family:Arial, Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	color: #fefefe;
+}
+
+.validar_logintxt_black {
+	text-align: center;
+	font-family:Arial, Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color:#87ae4c;
+	vertical-align:middle;
+	text-align:center;
+	height:30px;
+}
+
+.validar_logininput {
+	width: 90%;
+	border: 1px solid #87ae4c;
+	text-align: left;
+	font-family:Arial, Helvetica;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.validar_loginbutton {
+	width: 80px;
+	border: 1px solid #000000;
+	text-align: center;
+	font-family:Arial, Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #087991;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	color:#FFFFFF;
+}
+.validar_loginbutton:hover {
+	
+	background-color: #7D2612;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	color:#087991;
+}
+
+#loginboxtop {
+	width: 375px; 
+	height: 41px; 
+	border: 0px none;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	vertical-align: bottom;
+	background: #EBEBEB;
+	color: #ffffbb;
+}
+
+#loginboxbottom {
+	width: 350px; 
+	height: 20px; 
+	background-color: #EBEBEB;
+}
+
+@font-face {font-family:Arial, Helvetica, sans-serif; font-weight:normal;font-style:normal;}
